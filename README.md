@@ -1,1 +1,1 @@
-# Test task for Knomery
+# Test task for Knomary
